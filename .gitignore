@@ -1,0 +1,11 @@
+# build artifacts
+src/app.res.o
+*.o
+*.bmp
+click-test.log
+PowerMon-snapshot.bmp
+
+# editors / OS
+.vscode/
+Thumbs.db
+desktop.ini
